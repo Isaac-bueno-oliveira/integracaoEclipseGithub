@@ -7,10 +7,8 @@ public class Teste {
 		System.out.println("Primeira integração");
 		System.out.println("Segunda integração");
 		System.out.println("Terceira integração vinda do GitHub");
-<<<<<<< HEAD
+
 		System.out.println("Criando cenário de conflito.");
-=======
 		System.out.println("Fazendo alteração no GitHub");
->>>>>>> branch 'main' of https://github.com/Isaac-bueno-oliveira/integracaoEclipseGithub
 	}
 }
